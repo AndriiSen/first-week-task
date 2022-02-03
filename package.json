@@ -1,0 +1,16 @@
+{
+  "name": "31-january",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine",
+    "lint": "eslint ./ --fix"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.8.0",
+    "jasmine": "^4.0.2"
+  }
+}
